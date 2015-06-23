@@ -49,4 +49,35 @@ juice
 [['wash car', 'get kids', 'cash check'], ['Green Juice', 'juice', 'potatoes', 'onions']]
 >>>
 
+grocery_list.insert
+
+grocery_list.remove
+
+grocery_list.sort
+
+grover_list.reverse
+
+del.grocery_list[4]
+
+to_do_list2 = other_events + grocery_list
+
+print(len(to_do_list2))   #length
+
+print(max(to_do_list2))   #max value
+
+print(min(to_do_list2)))  #min value
+
+TUPLES
+Unlike a list, we can't change a tuple after it has been created. 
+
+new_tuple = list(pi_tuple)
+
+new_list = tuple(pi_tuple)
+
+len(tuple) Max(tuple) min(tuple) 
+
+super_villains = {'fiddler': 'Isaac B', 'weather wizard' : 'mark moldy', "MirrorMask' = 'Eve Tulbert']
+
+
+
 
